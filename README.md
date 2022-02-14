@@ -3,6 +3,7 @@
 - 🌱 I’m currently did my masters in business analytics.
 - 💞️ I’m looking to collaborate on analytics field
 - 📫 How to reach me christyshaju2912@gmail.com
+- GPS technical anlyst
 
 
 <!---
